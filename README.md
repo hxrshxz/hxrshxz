@@ -2,6 +2,7 @@
 ![home](https://example.com/your-image-link)
 
 ## 🌐 Socials:
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hxrsh__xz-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hxrsh_xz/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hxrsh_xz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hxrsh_xz) 
