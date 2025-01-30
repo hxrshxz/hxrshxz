@@ -37,7 +37,7 @@ Hi, I am Harsh 😊:
 
 
 <!-- Add or remove tech stack badges as per your skills -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hxrshxz&label=Profile%20views&color=0e75b6&style=flat" alt="hxrshxz" /> </p>
 
 
 ---
