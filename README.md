@@ -2,10 +2,10 @@ Hi, I am Harsh 😊:
 ![home](https://camo.githubusercontent.com/b3072e92d82f21ef16b32b094f692c330a3d7c4d4153afd71487617986c33c70/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a357576367770342f696d6167652f75706c6f61642f665f6175746f2c715f6175746f2f76312f506572736f6e616c2f627331696e686e346c786b777677627039756d68)
 
 ## 🌐 Socials:
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hxrsh__xz-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hxrsh_xz/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hxrsh_xz/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hxrsh_xz) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hxrsh_xz)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hxrsh__xz-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
