@@ -34,9 +34,9 @@ Hi, I am Harsh 😊:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-
-<!-- Add or remove tech stack badges as per your skills -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxrshxz&label=Profile%20views&color=0e75b6&style=flat" alt="hxrshxz" /> </p>
+
+![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username=hxrshxz&show_icons=true)
 
 
 ---
