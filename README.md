@@ -1,5 +1,4 @@
 Hi, I am Harsh 😊:
-![home](https://camo.githubusercontent.com/b3072e92d82f21ef16b32b094f692c330a3d7c4d4153afd71487617986c33c70/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a357576367770342f696d6167652f75706c6f61642f665f6175746f2c715f6175746f2f76312f506572736f6e616c2f627331696e686e346c786b777677627039756d68)
 
 ## 📱 Socials:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hxrsh_xz)
@@ -9,7 +8,7 @@ Hi, I am Harsh 😊:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hxrsh_xz)
 # 💻 Tech Stack:
 
-### 🎨 Frontend  
+###  Frontend  
 <p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -21,7 +20,7 @@ Hi, I am Harsh 😊:
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Databases  
+### Backend & Databases  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -32,7 +31,7 @@ Hi, I am Harsh 😊:
   <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### 🚀 DevOps & Tools  
+###  DevOps & Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -42,7 +41,7 @@ Hi, I am Harsh 😊:
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🧪 Testing  
+###  Testing  
 <p align="left">
   <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=black" />
