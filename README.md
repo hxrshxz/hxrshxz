@@ -1,4 +1,4 @@
-Hi, I am Harsh 😊:
+Hi, I am Harsh 😊
 
 # Tech Stack:
 ### Languages
